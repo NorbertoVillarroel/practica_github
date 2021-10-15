@@ -1,6 +1,7 @@
 # practica_github
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Prueba Pablo
 =======
 Modificación 1.
@@ -15,3 +16,6 @@ Prueba Pablo
 Norberto
 >>>>>>> Norberto
 >>>>>>> 4c45854eb8a30c9a2103b084063f3ebaf92e1245
+=======
+Mauri
+>>>>>>> Rama_Mauri
